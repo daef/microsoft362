@@ -1,8 +1,8 @@
 {
   "manifest_version": 2,
-  "name": "OpenAI is not Open",
+  "name": "Microsoft 362",
   "version": "1.0",
-  "description": "Replaces OpenAI with 'Open'AI.",
+  "description": "Replaces Microsoft/Office 365 with Microsoft/Office 362",
   "icons": {
   },
   "permissions": ["activeTab"],

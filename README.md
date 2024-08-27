@@ -1,16 +1,8 @@
-<h1 align="center"> OpenAI is not Open </h1>
-<br/>
-I love "Open"AI. They make incredible tools and actually release them (unlike Google <s>and Facebook</s>). However, I am beyond tired of conversations like this:
-<img src="https://github.com/zaporter/OpenAI-is-not-Open/blob/main/images/DumbConvo.png?raw=true">
-
+<h1 align="center"> Microsoft 362 </h1>
 <br/>
 
-With the new *OpenAI is not Open* extension, every instance of OpenAI will be replaced by "Open"AI. Hopefully if enough people install this extension, we will stop having this boring repetitive conversation. It even works on their own website:
+With the new Microsoft 362 extension, every instance of Microsoft/Office 365 will be replaced by Microsoft/Office 362.
 
-<img src="https://github.com/zaporter/OpenAI-is-not-Open/blob/main/images/FixedSite.png?raw=true">
-
-
-
-Add this extension to Firefox today! <a href="https://addons.mozilla.org/en-US/firefox/addon/openai-is-not-open/">https://addons.mozilla.org/en-US/firefox/addon/openai-is-not-open/</a>
+Kudos to <a href="https://github.com/zaporter/OpenAI-is-not-Open">zaporter</a> for the preperatory work, go install '"Open"AI is not Open' for an ever better browsing experience.
 
 ### Firefox only. If someone wants to bring this to Chromium, go for it. 

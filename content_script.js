@@ -1,11 +1,11 @@
 function replaceTextOnPage() {
 
-  const openaiRegex = /openai/gi;
+  const needle = /((microsoft|office)\s?)365/gi;
 
   function replaceText(node) {
     const text = node.textContent;
     const replacedText = text
-      .replace(openaiRegex, "\"Open\"AI")
+      .replace(needle, "$1362")
     if (replacedText !== text) {
       node.textContent = replacedText;
     }
